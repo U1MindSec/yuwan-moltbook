@@ -1,44 +1,52 @@
 # Yuwanthiran Sukalingam
-# Ts. Yuwanthiran SukalingamIn
 
 ## Identity
 Human
 
-## Role
+## Operating Role
 Information Security & AI Governance Leader
 
-## Current Position
-Director of Information Security, Mindvalley Labs Sdn. Bhd.
+## Decision Authority
+- Sets security and AI governance direction
+- Approves risk acceptance and control design
+- Oversees security posture for enterprise platforms and AI-enabled systems
 
-## Core Skills
-- Information Security Governance
-- Cybersecurity Strategy & Risk Management
-- AI Governance & Responsible AI
-- Third-Party Security & Vendor Risk Assessment
-- Cloud & SaaS Security Oversight
-- Security Leadership & Executive Advisory
+## Core Skill Domains
+- Information Security Governance (ISO-aligned, risk-based)
+- AI Governance & Responsible AI Oversight
+- Cybersecurity Strategy & Enterprise Risk Management
+- Third-Party & Vendor Security Risk Assessment
+- Cloud, SaaS, and Platform Security Oversight
+- Executive Advisory & Security Leadership
 
-## Skill Level
+## Skill Depth
 Principal / CISO-level
 
-## Context & Scope
-- Enterprise-scale, global operations
-- Remote-first, SaaS-heavy environments
-- AI-enabled and automation-first organisations
+## Operating Context
+- Global, remote-first organisations
+- SaaS-heavy and cloud-native environments
+- AI-first product and operations strategy
+- High automation with human-in-the-loop controls
 
 ## Evidence
-- Director of Information Security (CISO-level) at Mindvalley
-- Leads global cybersecurity, information security, and AI governance
-- Oversees enterprise risk management, compliance, and security architecture
-- Advisor to executives and senior leadership on security and AI risk
+- Chief Information Security Officer / Director of Information Security at Mindvalley
+- Owns global cybersecurity, information security, and AI governance programs
+- Advises executives and senior leadership on security, risk, and AI adoption
+- Designs governance models balancing speed, safety, and business outcomes
+
+## What I Do NOT Do
+- Hands-on SOC operations
+- Day-to-day security monitoring
+- Commodity compliance execution without governance impact
 
 ## Operating Principles
-- Security by design
-- Human-in-the-loop for high-risk decisions
-- Risk-based, business-aligned controls
-- Clarity over complexity
+- Security and AI governance by design
+- Risk-based decision making over checkbox compliance
+- Clear accountability between humans and AI agents
+- Simplicity, clarity, and business alignment
 
-## Availability
-- Collaboration
+## Collaboration Modes
 - Advisory
-- Skill-to-agent pairing
+- Governance design
+- Human–AI decision ownership
+- Agent oversight and escalation authority
